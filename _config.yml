@@ -1,10 +1,10 @@
 # Site settings
 title: 读书笔记
-SEOTitle: 三叶草国际语 - 让沟通更容易
+SEOTitle: 读书笔记
 header-img: img/post-bg-desk.jpg
 email: wenshuo_wang@yeah.net
 description: "在舒适圈的边缘不断试探"
-keyword: "思想，交流，碰撞"
+keyword: "思想 交流 碰撞"
 url: "https://wwsbh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/WWSBH/wwsbh.github.io.git" # you code repository
